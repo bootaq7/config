@@ -1,0 +1,10 @@
+configserver:
+  git:
+    username: bootaq7
+      pass: Ibm@0aq7
+productms:
+  datasource:
+    url: jdbc:h2:mem:testdb
+    username: sa
+    password: 
+    driver: org.h2.Driver
