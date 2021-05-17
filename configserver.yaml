@@ -1,7 +1,7 @@
 configserver:
   git:
     username: bootaq7
-      pass: Ibm@0aq7
+      pass: Sasi@0aq7
 productms:
   datasource:
     url: jdbc:h2:mem:testdb
